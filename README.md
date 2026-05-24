@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-My name is Suraj Oswal, and I am a BBA-CA graduate from Arihant College with a strong passion forweb and mobile development. I enjoy learning how software systems work internally and applying thatknowledge to build practical and interactive applications.
+My name is Suraj Jain, and I am a BBA-CA graduate from Arihant College with a strong passion forweb and mobile development. I enjoy learning how software systems work internally and applying thatknowledge to build practical and interactive applications.
 
 I have experience with technologies such as HTML, CSS, JavaScript, AngularJS, Node.js, MySQL, Java,JDBC, JSP, and Servlets. My interests mainly focus on frontend development, full-stack webapplications, database systems, and UI/UX design.
 

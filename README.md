@@ -30,4 +30,4 @@ Spotify Clone
   * https://suraj-oswal-39.github.io/Spotify-Clone-Project/
 
 DBMS Modern Workbench
-  * https://suraj-oswal-39.github.io/DBMS_modern_workbench/images
+  * https://suraj-oswal-39.github.io/DBMS_modern_workbench/images/

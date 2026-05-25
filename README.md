@@ -13,6 +13,8 @@ My goal is to continue growing as a full-stack developer by building real-world 
 ---
 
 ## 🗂 Project
+Portfolio
+  * https://suraj-oswal-39.github.io/Portfolio/
 
 Simple Calculator
   * https://suraj-jain-39.github.io/calculator_project/

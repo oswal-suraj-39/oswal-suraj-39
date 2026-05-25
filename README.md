@@ -15,19 +15,19 @@ My goal is to continue growing as a full-stack developer by building real-world 
 ## 🗂 Project
 
 Simple Calculator
-  * https://suraj-oswal-39.github.io/calculator_project/
+  * https://suraj-jain-39.github.io/calculator_project/
 
 Flexbox Playground
-  * https://suraj-oswal-39.github.io/Flexbox-Playground/
+  * https://suraj-jain-39.github.io/Flexbox-Playground/
 
 Game Library
-  * https://suraj-oswal-39.github.io/Game-Library/
+  * https://suraj-jain-39.github.io/Game-Library/
 
 Inventory System
-  * https://suraj-oswal-39.github.io/inventory_system/html/
+  * https://suraj-jain-39.github.io/inventory_system/html/
 
 Spotify Clone
-  * https://suraj-oswal-39.github.io/Spotify-Clone-Project/
+  * https://suraj-jain-39.github.io/Spotify-Clone-Project/
 
 DBMS Modern Workbench
-  * https://suraj-oswal-39.github.io/DBMS_modern_workbench/images/
+  * https://suraj-jain-39.github.io/DBMS_modern_workbench/images/index.html

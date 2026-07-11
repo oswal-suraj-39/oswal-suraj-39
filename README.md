@@ -33,3 +33,9 @@ Spotify Clone
 
 DBMS Modern Workbench
   * https://oswal-suraj-39.github.io/DBMS_modern_workbench/images/index.html
+
+---
+
+## 📧 Contact
+[oswalsuraj369@gmail.com](mailto:oswalsuraj369@gmail.com)
+
